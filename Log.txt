@@ -6,3 +6,4 @@ repeat
 killer
 rising
 pheonix
+smart
