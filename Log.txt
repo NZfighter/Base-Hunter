@@ -3,3 +3,4 @@ edit to base hunter
 guild
 build
 repeat
+killer
