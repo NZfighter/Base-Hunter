@@ -7,3 +7,4 @@ killer
 rising
 pheonix
 smart
+contracts
