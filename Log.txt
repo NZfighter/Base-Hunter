@@ -4,3 +4,4 @@ guild
 build
 repeat
 killer
+rising
