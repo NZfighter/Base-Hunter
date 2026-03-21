@@ -12,3 +12,4 @@ fix
 refix
 right
 left
+up
