@@ -99,3 +99,4 @@ base legends
 all base
 nzfighter.base
 lfg
+polymarket
